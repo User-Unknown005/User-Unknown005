@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @User-Unknown005
-- 👀 I’m interested in coding....
-- 🌱 I’m currently learning 
 - 📫 reach me on sdeepbera@gmail.com
 
 <!---
